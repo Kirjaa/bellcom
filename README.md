@@ -27,5 +27,5 @@
 `php artisan db:seed`
 
 **Link to XML Parser**
-- Replace 7000 port in provided link if you changed it before in docker-compose.yml
+- Replace 7000 port in provided link if you changed it before in docker-compose.yml  
 `http://localhost:7000/xml/view`
